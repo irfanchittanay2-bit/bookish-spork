@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fcd3e05-f59b-4a6e-9e1c-fc92a52b6672" name="Changes" comment="This is four filef" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Release_customer" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "irfanchittanay2-bit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/irfanchittanay2-bit/Git_irfan_train.git",
+    "accountId": "e01aa285-0526-49b2-a3c7-5f9f87e0d979"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1710299913997602" />
+      <entry key="MS500" value="3.5769083170692335" />
+      <entry key="S2" value="9.08897737927633" />
+      <entry key="S5" value="12.499235657238241" />
+      <entry key="S10" value="14.22138462254058" />
+      <entry key="S30" value="18.551129902764153" />
+      <entry key="S60" value="23.308573022295413" />
+      <entry key="M2" value="31.56486560407589" />
+      <entry key="M5" value="58.333774504167046" />
+      <entry key="M10" value="88.96644081061169" />
+      <entry key="M15" value="109.55792702511793" />
+      <entry key="M30" value="150.80481932475163" />
+      <entry key="H1" value="203.6549786277199" />
+      <entry key="H2" value="271.4985816916087" />
+      <entry key="H4" value="338.4029434915285" />
+      <entry key="D1" value="429.839009143208" />
+      <entry key="W1" value="450.4015359720528" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0416154351198208" />
+      <entry key="MS500" value="3.5002988409180467" />
+      <entry key="S2" value="9.041558545163836" />
+      <entry key="S5" value="12.473176580246038" />
+      <entry key="S10" value="14.20658223550424" />
+      <entry key="S30" value="18.544915908777718" />
+      <entry key="S60" value="23.304714451924504" />
+      <entry key="M2" value="31.561996601458866" />
+      <entry key="M5" value="58.33131742396422" />
+      <entry key="M10" value="88.96441553830377" />
+      <entry key="M15" value="109.55608510516153" />
+      <entry key="M30" value="150.80302982403896" />
+      <entry key="H1" value="203.65307511439738" />
+      <entry key="H2" value="271.49685640595214" />
+      <entry key="H4" value="338.4017054185807" />
+      <entry key="D1" value="429.8387213839719" />
+      <entry key="W1" value="450.40149233280187" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JJRWsbkH4U1r7CZJLPKAiTZ3i2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Feature__sprint__1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Git_training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fcd3e05-f59b-4a6e-9e1c-fc92a52b6672" name="Changes" comment="" />
+      <created>1789377219569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789377219569</updated>
+    </task>
+    <task id="LOCAL-00001" summary="This is my first commit">
+      <option name="closed" value="true" />
+      <created>1789378310934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789378310934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is my second commit">
+      <option name="closed" value="true" />
+      <created>1789378391817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789378391817</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is test3 file">
+      <option name="closed" value="true" />
+      <created>1789380907507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789380907507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All three files modified">
+      <option name="closed" value="true" />
+      <created>1789381406115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789381406115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="All three files modified">
+      <option name="closed" value="true" />
+      <created>1789382016662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789382016662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="All three files modified">
+      <option name="closed" value="true" />
+      <created>1789382589134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789382589134</updated>
+    </task>
+    <task id="LOCAL-00007" summary="All three files modified">
+      <option name="closed" value="true" />
+      <created>1789382811589</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789382811589</updated>
+    </task>
+    <task id="LOCAL-00008" summary="All three files modified">
+      <option name="closed" value="true" />
+      <created>1789386794763</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1789386794763</updated>
+    </task>
+    <task id="LOCAL-00009" summary="This is four file">
+      <option name="closed" value="true" />
+      <created>1789386838803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1789386838803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="This is four file">
+      <option name="closed" value="true" />
+      <created>1789386881717</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1789386881717</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This is four file">
+      <option name="closed" value="true" />
+      <created>1789389396235</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1789389396235</updated>
+    </task>
+    <task id="LOCAL-00012" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789389652698</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1789389652698</updated>
+    </task>
+    <task id="LOCAL-00013" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789389710662</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1789389710662</updated>
+    </task>
+    <task id="LOCAL-00014" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789390248364</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1789390248364</updated>
+    </task>
+    <task id="LOCAL-00015" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789390270287</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1789390270287</updated>
+    </task>
+    <task id="LOCAL-00016" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789390291676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1789390291676</updated>
+    </task>
+    <task id="LOCAL-00017" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789392139959</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1789392139960</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is my first commit" />
+    <MESSAGE value="This is my second commit" />
+    <MESSAGE value="This is test3 file" />
+    <MESSAGE value="All three files modified" />
+    <MESSAGE value="This is four file" />
+    <MESSAGE value="This is four filef" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is four filef" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
