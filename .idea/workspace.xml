@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcd3e05-f59b-4a6e-9e1c-fc92a52b6672" name="Changes" comment="This is four filef">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8fcd3e05-f59b-4a6e-9e1c-fc92a52b6672" name="Changes" comment="This is four file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,7 +319,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789404988670</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="This is four filef">
+      <option name="closed" value="true" />
+      <created>1789454104133</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1789454104133</updated>
+    </task>
+    <task id="LOCAL-00020" summary="This is four file">
+      <option name="closed" value="true" />
+      <created>1789454134057</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1789454134057</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,9 +384,9 @@
     <MESSAGE value="This is my second commit" />
     <MESSAGE value="This is test3 file" />
     <MESSAGE value="All three files modified" />
-    <MESSAGE value="This is four file" />
     <MESSAGE value="This is four filef" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is four filef" />
+    <MESSAGE value="This is four file" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is four file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
